@@ -1,0 +1,15 @@
+D:\СSharp\LinkedList2\LinkedList2\bin\Debug\net7.0\LinkedList2.exe
+D:\СSharp\LinkedList2\LinkedList2\bin\Debug\net7.0\LinkedList2.deps.json
+D:\СSharp\LinkedList2\LinkedList2\bin\Debug\net7.0\LinkedList2.runtimeconfig.json
+D:\СSharp\LinkedList2\LinkedList2\bin\Debug\net7.0\LinkedList2.dll
+D:\СSharp\LinkedList2\LinkedList2\bin\Debug\net7.0\LinkedList2.pdb
+D:\СSharp\LinkedList2\LinkedList2\obj\Debug\net7.0\LinkedList2.csproj.AssemblyReference.cache
+D:\СSharp\LinkedList2\LinkedList2\obj\Debug\net7.0\LinkedList2.GeneratedMSBuildEditorConfig.editorconfig
+D:\СSharp\LinkedList2\LinkedList2\obj\Debug\net7.0\LinkedList2.AssemblyInfoInputs.cache
+D:\СSharp\LinkedList2\LinkedList2\obj\Debug\net7.0\LinkedList2.AssemblyInfo.cs
+D:\СSharp\LinkedList2\LinkedList2\obj\Debug\net7.0\LinkedList2.csproj.CoreCompileInputs.cache
+D:\СSharp\LinkedList2\LinkedList2\obj\Debug\net7.0\LinkedList2.dll
+D:\СSharp\LinkedList2\LinkedList2\obj\Debug\net7.0\refint\LinkedList2.dll
+D:\СSharp\LinkedList2\LinkedList2\obj\Debug\net7.0\LinkedList2.pdb
+D:\СSharp\LinkedList2\LinkedList2\obj\Debug\net7.0\LinkedList2.genruntimeconfig.cache
+D:\СSharp\LinkedList2\LinkedList2\obj\Debug\net7.0\ref\LinkedList2.dll
